@@ -1,2 +1,0 @@
-# LprDataApp
- Android App
